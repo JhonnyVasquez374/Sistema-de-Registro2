@@ -1,3 +1,3 @@
-<h1>Sistema de Registro</h1>
+<h1><b>Sistema de Registro</b></h1>
 
-Estado del proyecto: En construccion.
+Estado del proyecto:<b>En construccion</b>
